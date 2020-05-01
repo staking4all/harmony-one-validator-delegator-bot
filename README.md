@@ -63,7 +63,7 @@ The bot provides several alerts that includes
 #### Example of node missing signing/blocks alerts
 ![](images/alert2.jpg)
 
-#### Example of node changing fee % and informating delegator
+#### Example of node changing fee % and informing delegator
 ![](images/alert3.jpg)
 
 
