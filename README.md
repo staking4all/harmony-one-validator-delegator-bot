@@ -9,4 +9,6 @@ This is a telegram bot that allows you to register Harmony One validator address
 
 With telegram you must find the bot using @HarmonyOne_ValidatorBot
 
+![](images/TelegramFindBot.jpg)
+
 
