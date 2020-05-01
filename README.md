@@ -34,14 +34,14 @@ By clicking the "Add" button on the main menu you will have a sub menu where you
 
 ## List info
 
-Using the list sub menu you can list infor about delegators or validators
+Using the list sub menu you can list information about delegators or validators
 
 ![](images/list.jpg)
 
 
 ## Information Available
 
-The bot provides rich information to ensure you are fully aware of how your delegations on validtors are performing or as a validator what is your node status
+The bot provides rich information to ensure you are fully aware of how your delegations on validators are performing or as a validator what is your node status
 
 #### Example of delegator info
 ![](images/delegatorinfo.jpg)
