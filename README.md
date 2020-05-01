@@ -32,5 +32,38 @@ By clicking the "Add" button on the main menu you will have a sub menu where you
 ![](images/add.jpg)
 
 
+## List info
+
+Using the list sub menu you can list infor about delegators or validators
+
+![](images/list.jpg)
+
+
+## Information Available
+
+The bot provides rich information to ensure you are fully aware of how your delegations on validtors are performing or as a validator what is your node status
+
+#### Example of delegator info
+![](images/delegatorinfo.jpg)
+
+#### Example of validator info
+![](images/validatorinfo.jpg)
+
+
+## Alerts
+The bot provides several alerts that includes
+- Validator fee change
+- Validator stop signing and missing blocks/signing
+- Validator has fallen out of the committee
+- Open Staking TestNet resets
+
+#### Example of node returning into committee alert
+![](images/alert1.jpg)
+
+#### Example of node missing signing/blocks alerts
+![](images/alert2.jpg)
+
+#### Example of node changing fee % and informating delegator
+![](images/alert3.jpg)
 
 
