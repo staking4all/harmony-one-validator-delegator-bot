@@ -41,7 +41,7 @@ Using the list sub menu you can list information about delegators or validators
 
 ## Information Available
 
-The bot provides rich information to ensure you are fully aware of how your delegations on validators are performing or as a validator what is your node status
+The bot provides rich information to ensure you are fully aware of how your delegations on validators are performing or as a validator what is your node status. The information also provides information related to rewards in relation to the median vote which in turn impact rewards.
 
 #### Example of delegator info
 ![](images/delegatorinfo.jpg)
